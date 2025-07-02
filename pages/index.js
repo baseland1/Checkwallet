@@ -38,7 +38,7 @@ export default function Home() {
         }}
       />
 
-      <h1 style={{ marginBottom: '20px' }}>Check Your Wallet</h1>
+      <h1 style={{ marginBottom: '20px' }}>Check Your MegaZilla Wallet</h1>
 
       <input
         type="text"
@@ -46,7 +46,7 @@ export default function Home() {
         value={address}
         onChange={(e) => setAddress(e.target.value)}
         style={{
-          width: '300px',
+          width: '500px',
           padding: '10px',
           fontSize: '16px',
           borderRadius: '5px',
