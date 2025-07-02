@@ -27,9 +27,8 @@ export default function Home() {
 
   return (
     <div style={{ textAlign: 'center', padding: '50px', fontFamily: 'sans-serif' }}>
-      {/* 🔺 بنر تصویری */}
       <img
-        src="/banner.png"
+        src="/banner.jpg"
         alt="Banner"
         style={{
           maxWidth: '100%',
