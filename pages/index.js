@@ -31,7 +31,7 @@ export default function Home() {
         src="/banner.jpg"
         alt="Banner"
         style={{
-          maxWidth: '100%',
+          maxWidth: '60%',
           height: 'auto',
           marginBottom: '40px',
           borderRadius: '12px'
